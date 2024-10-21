@@ -55,5 +55,5 @@ You can deploy Apache Airflow using Helm or by applying custom YAML files. For H
 Copy your DAG files (e.g., fetch_and_preview.py, hello.py) into the DAGs folder of your Airflow deployment. The method of copying depends on your Airflow setup (e.g., using Persistent Volume, Git-sync).
 
 # Usage
-# 1-Kubernetes Dashboard: Use the Dashboard to monitor and manage the Kubernetes cluster.
-# 2-Apache Airflow: Access the Airflow web UI to manage, schedule, and monitor workflows.
+1-Kubernetes Dashboard: Use the Dashboard to monitor and manage the Kubernetes cluster.
+2-Apache Airflow: Access the Airflow web UI to manage, schedule, and monitor workflows.
