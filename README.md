@@ -6,7 +6,7 @@ This repository contains the necessary configuration files and DAGs (Directed Ac
  1-fetch_and_preview.py: A DAG for fetching data and providing a preview.
 
  2-hello.py: A simple example DAG to demonstrate basic Airflow concepts.
-
+ 
 # Kubernetes (k8s) Configuration
  1-dashboard-adminuser.yaml: YAML file for setting up an admin user for the Kubernetes Dashboard.
 
